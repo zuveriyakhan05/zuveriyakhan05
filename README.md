@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zuveriya Khan</h1>
 <h3 align="center">Aspiring Software Engineering Student, UI/UX Designer & Graphics Designer.</h3>
-<img  align="right" alt="Coding" width="100" src="https://img.freepik.com/premium-vector/caucasian-female-software-developer-her-40s-debugging-program_1238364-101123.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuveriyakhan05&label=Profile%20views&color=0e75b6&style=flat" alt="zuveriyakhan05" /> </p>
 
