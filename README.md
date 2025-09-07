@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuveriyakhan05&label=Profile%20views&color=0e75b6&style=flat" alt="zuveriyakhan05" /> </p>
 
 
-- 👯 I’m looking to collaborate on **Full-Stack Projects**
+- 👯 I’m looking to collaborate on **Full-Stack Projects & UI/UX Projects**
 
 - 📫 How to reach me **zuveriyap05@gmail.com**
 
