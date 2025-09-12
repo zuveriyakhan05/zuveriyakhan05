@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects & UI/UX Projects**
 
-- 📫 How to reach me **zuveriyap05@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
