@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Zuveriya Khan</h1>
 <h3 align="center">Aspiring Software Engineering Student, UI/UX Designer & Graphics Designer.</h3>
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zuveriya-khan-9a44a6319) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zuveriyap05@gmail.com) 
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuveriyakhan05&label=Profile%20views&color=0e75b6&style=flat" alt="zuveriyakhan05" /> </p>
