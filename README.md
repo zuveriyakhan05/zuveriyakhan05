@@ -23,11 +23,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,angular,nodejs,express,mongodb,mysql,redis,tailwind,java,python,c,cpp,git,figma,ps,ai,postman,framer" />
 </p>
 
----
-
-
----
-
 ### 🤝 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/zuveriya-khan-9a44a6319" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
