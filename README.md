@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Zuveriya Khan</h1>
 <p align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1A73E8&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;UI%2FUX+Designer;Graphics+Designer;Full+Stack+Developer+In+Progress" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1A73E8&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;UI%2FUX+Designer;Graphics+Designer;Full+Stack+Developer+In+Progress" alt="Typing SVG" />
 </p>
 
 <p align="center">
