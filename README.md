@@ -14,7 +14,7 @@
 
 ### 👩‍💻 About Me
 - 🎓 **Aspiring Data Analyst** with a passion for UI/UX and Graphic Design.
-- 🎓 **Software Engineer** with a passion for **UI/UX and Graphic Design**.
+- 💻 **Software Engineer** with a passion for **UI/UX and Graphic Design**.
 - 🔭 I’m currently working on **Full-Stack Development projects**.
 - ⚡ Fun fact: I believe that code should be as beautiful as the UI it powers.
 
